@@ -4,8 +4,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///C:/Users/Dan/Downloads/Chelyabinsk_eea2008.mp4"
-            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Chelyabinsk_eea2008.mp4"/>
+            MEDIA_URL="file:///C:/Users/Dan/Downloads/Chelyabinsk_eae2008.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Chelyabinsk_eae2008.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5b6c6102-95d9-4cc9-bda1-451eb42fd0be</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">1293</PROPERTY>
     </HEADER>
